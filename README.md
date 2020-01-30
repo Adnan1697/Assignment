@@ -1,23 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-table {
-  font-family: Times New Roman, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-}
-
-td, th {
-  border: 1px solid #dddddd;
-  text-align: left;
-  padding: 15px;
-}
-
-tr:nth-child(even) {
-  background-color: #808080;
-}
-</style>
 </head>
 <body>
 
